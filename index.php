@@ -1,5 +1,5 @@
 <?php
-echo "this is a test Email from jenkins";
+echo "When build will success";
 echo "hello this a in the Jenkins email";
 echo "Hello mm-websrv-05";
 echo "<br>";
